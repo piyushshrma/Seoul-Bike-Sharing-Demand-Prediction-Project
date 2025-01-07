@@ -84,9 +84,9 @@ The project is organized as follows:
    git clone https://github.com/yourusername/seoul-bike-sharing.git  
    cd seoul-bike-sharing  
 
-3.Open the Jupyter Notebook:
+3. Open the Jupyter Notebook:
    ```bash  
-jupyter notebook Seoul_Bike_Sharing.ipynb
+   jupyter notebook Seoul_Bike_Sharing.ipynb
 
 
 4. Run the notebook cells sequentially to train the model and evaluate predictions.
