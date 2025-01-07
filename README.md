@@ -74,10 +74,14 @@ The project is organized as follows:
    cd seoul-bike-sharing  
 
 2. Install dependencies:
-bash
-pip install -r requirements.txt  
+```bash  
+pip install -r requirements.txt
+
 3.Open the Jupyter Notebook:
-bash
-Copy code
-jupyter notebook Seoul_Bike_Sharing.ipynb  
+```bash  
+jupyter notebook Seoul_Bike_Sharing.ipynb
+
 Run the notebook cells sequentially to train the model and evaluate predictions.
+
+
+This project showcases the practical application of machine learning to solve real-world problems, demonstrating expertise in predictive analytics, data-driven decision-making, and scalable solution development.
