@@ -36,11 +36,17 @@ The dataset is publicly available at the [UCI Machine Learning Repository](https
 ## Project Structure  
 The project is organized as follows:  
 ├── .ipynb_checkpoints/ # Jupyter Notebook checkpoints
+
 ├── models/ # Trained models and serialized files
+
 │ └── model.pkl # Finalized predictive model
+
 ├── README.md # Project documentation
+
 ├── SeoulBikeData.csv # Dataset used for training and evaluation
+
 ├── Seoul_Bike_Sharing.ipynb # Jupyter Notebook for data analysis and modeling
+
 ├── Untitled.ipynb # Experimental notebook
 
 ---
